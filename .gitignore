@@ -1,0 +1,4 @@
+.venv
+authorization.db
+tasks.db
+.idea
